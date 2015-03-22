@@ -7,6 +7,10 @@
 # R data files from past sessions
 .Rdata
 .RData
+*.Rout
 
 # RStudio files
 .Rproj.user/
+
+# Dataset
+UCI HAR Dataset
